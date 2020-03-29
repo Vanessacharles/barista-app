@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image:url(img/background.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  color:white;
+  font-size: 20px;
+  font-family: 'Permanent Marker', cursive;
+}
+.page-header{
+  padding-top:30px;
+}
+h1{
+  font-family: 'Permanent Marker', cursive;
+  text-decoration: underline;
+}
+h3{
+  color:lime;
+}
+.hide {
+  display: none;
+}
+li{
+  margin-top:10px;
+  list-style: none;
+}
+.orderName{
+  color:pink;
+}
+.orderItem{
+  color:yellow;
+}
+button{
+  border-radius:2em;
+}
+.completeButton, .completed span:last-of-type{
+  margin-left:10px;
+}
+img{
+  height:100px;
+}

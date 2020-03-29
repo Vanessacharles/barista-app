@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image:url(img/chalkboard.jpg)
+}
+img{
+  height: 200px;
+}
+h1{
+  color:lime;
+}
+.jumbotron{
+  background-color: initial;
+  padding-top:90px;
+}
+.jumbotron h1{
+  color:lime;
+}
+p{
+  color:pink;
+}
